@@ -10,7 +10,7 @@ Test webhook functionality
 
 Installation
 
-Download the LLDP_Webhook_Simple.py script
+Download the LLDP-Webhook-NAE.py script
 From the AOS-CX Web UI, navigate to Diagnostics > Network Analytics > Agents
 Click + Add and upload the script file
 Configure the parameters as described below
